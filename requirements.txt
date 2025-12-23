@@ -1,1 +1,5 @@
-pyTelegramBotAPI requests
+pyTelegramBotAPI
+requests
+flask
+
+
